@@ -17,34 +17,36 @@ To write a program to perform linear search and binary search using python progr
 5.	Else, compare x with the middle element of the elements on the left side of mid. This is done by setting high to high = mid - 1.
 6.	Repeat steps 2 to 5 until low meets high
 ## Program:
-i)	#Use a linear search method to match the item in a list.
+### i)Use a linear search method to match the item in a list.
 ```
-
-
-
-```
-ii)	# Find the element in a list using Binary Search(Iterative Method).
-```
-
-
-
-
+ #Program for linear Search Method to match the item in a list
+ #Developed By:karna s
+ #RegisterNo:22008977
 
 ```
-iii)	# Find the element in a list using Binary Search (recursive Method).
+![](1.png)
+### ii)Find the element in a list using Binary Search(Iterative Method).
 ```
-
-
-
-
-
+ #Program to find the Element in a list using Binary Searh(Iterative Method)
+ #Developed By:karna s
+ #RegisterNo:22008977
 ```
+![](2.png)
+### iii)Find the element in a list using Binary Search (recursive Method).
+```
+ #Program to find the element in a list using Binary Search (recursive Method)
+ #Developed By:karna s
+ #RegisterNo:22008977
+```
+![](3.png)
 ## Sample Input and Output
-
-
-
-
+### i)
+![](11.png)
+### ii)
+![](22.png)
+### iii)
+![](33.png)
 
 
 ## Result
-Thus the linear search and binary search algorithm is implemented using python programming.
+  Thus the linear search and binary search algorithm is implemented using python programming.
